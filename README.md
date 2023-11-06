@@ -14,5 +14,3 @@ FILES INCLUDED:
 -final presentation
 
 -R markdown file
-
--final dashboard product
